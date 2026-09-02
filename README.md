@@ -99,12 +99,6 @@ A web-based stock market simulator project using HTML, CSS and JavaScript.
 
 ---
 
-## 🐍 GitHub Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Asraful666/Asraful666/output/grid.svg" width="100%" alt="Contribution Snake"/>
-
 
 
 ## 🎯 Currently Learning
