@@ -169,4 +169,36 @@ A web-based stock market simulator project using HTML, CSS and JavaScript.
 <img src="https://komarev.com/ghpvc/?username=Asraful666&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 
 </div>
-https://raw.githubusercontent.com/Asraful666/Asraful666/output/grid.svg
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Asraful666
+          outputs: |
+            dist/grid.svg
+            dist/grid-dark.svg?palette=github-dark
+
+      - name: Deploy Snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BUILD_DIR: dist
