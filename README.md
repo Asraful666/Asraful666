@@ -87,17 +87,7 @@ A web-based stock market simulator project using HTML, CSS and JavaScript.
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Asraful666&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asraful666&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="180"/>
-
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -115,19 +105,7 @@ A web-based stock market simulator project using HTML, CSS and JavaScript.
 
 <img src="https://raw.githubusercontent.com/Asraful666/Asraful666/output/grid.svg" width="100%" alt="Contribution Snake"/>
 
-</div>
 
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asraful666&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
 
 ## 🎯 Currently Learning
 
