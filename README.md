@@ -115,3 +115,57 @@ A web-based stock market simulator project using HTML, CSS and JavaScript.
 ### 💡 Keep learning, keep building, keep improving.
 
 ⭐ Thanks for visiting my profile!
+
+
+
+## 📊 GITHUB STATISTICS & ANALYSIS
+
+### 🐍 GitHub Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Asraful666/Asraful666/output/grid.svg" alt="GitHub Contribution Snake" width="100%">
+
+</div>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Asraful666&theme=swift&hide_border=true&include_all_commits=false&count_private=false" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asraful666&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180">
+
+</div>
+
+---
+
+### 🔥 Repository Stats & Streak
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Asraful666&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" height="180">
+
+<img src="https://streak-stats.demolab.com/?user=Asraful666&theme=swift&hide_border=true" height="180">
+
+</div>
+
+---
+
+## 💡 RANDOM DEV QUOTE
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" alt="Random Dev Quote">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Asraful666&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+
+</div>
