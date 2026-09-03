@@ -176,6 +176,16 @@ Algorithms               ████████████░░░░░░�
 Problem Solving          ███████████████░░░░░
 Competitive Programming  ██████████░░░░░░░░░░
 ```
+## 🏆 Achievements
+
+### 🥇 Intra-University Programming Contest — 2025
+
+**Champion 🏆 | Team ByteFlow**  
+**Sylhet International University**
+
+### 🌏 ICPC Asia Dhaka Regional Contest — 2025
+
+**Participant 💻 | Represented Sylhet International University**
 ## 💬 Random Dev Quote
 
 <div align="center">
