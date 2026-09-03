@@ -1,227 +1,140 @@
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-# Hi 👋, I'm Md Asraful Islam
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Md%20Asraful%20Islam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-### 🎓 CSE Student | 💻 Aspiring Full-Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;CSE+Student+%F0%9F%8E%93;Aspiring+Full-Stack+Developer+%F0%9F%92%BB;Learning+%26+Building+Every+Day+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Asraful+Islam;CSE+Student+%F0%9F%8E%93;Aspiring+Full-Stack+Developer+%F0%9F%92%BB;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br>
 
 <a href="https://github.com/Asraful666">
-<img src="https://img.shields.io/badge/GitHub-Asraful666-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/Asraful666?label=Followers&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Asraful666?tab=followers">
-<img src="https://img.shields.io/github/followers/Asraful666?style=for-the-badge&logo=github&label=Followers"/>
+<a href="https://github.com/Asraful666?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-9-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Asraful666&label=Profile%20Views&style=for-the-badge&color=667eea"/>
+<img src="https://komarev.com/ghpvc/?username=Asraful666&label=Profile%20Views&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👋 ABOUT ME
+# 👋 Hi, I'm Md Asraful Islam
 
-- 👋 Hi, I'm **Md Asraful Islam**
-- 🎓 I'm a **Computer Science & Engineering Student**
-- 💻 I'm passionate about **Web Development**
-- 🌱 Currently learning **JavaScript, React & Backend Development**
-- 🚀 Aspiring to become a **Full-Stack Developer**
-- 🛠️ I enjoy building modern and responsive web applications
-- 🧠 Interested in problem solving and software development
-- 📍 Sylhet, Bangladesh
+### 💻 CSE Student | Aspiring Full-Stack Developer
+
+I'm a passionate Computer Science & Engineering student who enjoys building modern and responsive web applications. I'm currently focusing on improving my skills in **JavaScript, React, Tailwind CSS, and Node.js** while working on real-world projects.
+
+I enjoy learning new technologies, solving programming problems, and turning ideas into useful web applications.
 
 ---
 
-# 🌐 FOLLOW ME ON SOCIALS
+## 👨‍💻 About Me
 
-<div align="left">
-
-<a href="https://github.com/Asraful666">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/mdasrafulislam.asraf.7965">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/mdasraful1924">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
+- 🎓 Computer Science & Engineering Student
+- 🏫 Sylhet International University
+- 📍 Sylhet, Bangladesh 🇧🇩
+- 💻 Interested in Web Development & Full-Stack Development
+- 🌱 Currently learning JavaScript, React & Backend Development
+- 🚀 Building projects to improve my development skills
+- 📚 Interested in Programming, Web Development & Technology
+- ⚡ Always trying to learn something new
 
 ---
 
-# 🛠️ TECHNOLOGY STACK
+## 🛠️ Tech Stack
 
-### Languages:
+### 🌐 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react"/>
 </p>
 
-### CSS Frameworks & Libraries:
+### ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=tailwind" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 </p>
 
-### JavaScript Frameworks & Libraries:
+### 🔧 Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-### Database & Backend:
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Tools & Technologies:
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
 
-# 🚀 FEATURED PROJECTS
+## 🚀 Featured Projects
 
 ### 🍽️ Restaurant Menu
 
-Responsive restaurant menu website created to practice HTML and CSS.
-
-**Technologies:** HTML • CSS
-
----
+A responsive restaurant menu project built with HTML and CSS.
 
 ### 🎤 DevConf 2026
 
-Modern conference landing page with responsive sections, speakers, pricing and navigation.
-
-**Technologies:** HTML • CSS • Flexbox • Grid
-
----
+A conference landing page built with modern HTML, CSS and responsive design.
 
 ### 👤 Personal Profile Card
 
-Clean personal profile card designed using modern CSS layouts.
-
-**Technologies:** HTML • CSS • Flexbox • Grid
-
----
+A clean personal profile card created using modern CSS layout techniques.
 
 ### 📈 Stock Market Simulator
 
-Web-based stock market simulator created to practice frontend development and JavaScript.
-
-**Technologies:** HTML • CSS • JavaScript
+A web-based stock market simulator project using HTML, CSS and JavaScript.
 
 ---
 
-# 📊 GITHUB STATISTICS & ANALYSIS
 
-### 🐍 GitHub Contributions:
+
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Asraful666/Asraful666/output/grid.svg" width="100%" alt="GitHub Contribution Snake"/>
+<img src="https://streak-stats.demolab.com/?user=Asraful666&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-### 📈 GitHub Statistics:
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Asraful666&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asraful666&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-### 🔥 Repository Stats & Streak:
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Asraful666&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Asraful666&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" height="180"/>
-
-</div>
-
----
-
-# 📈 GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asraful666&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-# 📚 CURRENTLY LEARNING
+## 🎯 Currently Learning
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb" />
+`JavaScript` • `React` • `Tailwind CSS` • `Node.js` • `Express.js` • `MongoDB`
 
 </p>
 
-- 🟨 JavaScript
-- ⚛️ React
-- 🟢 Node.js
-- 🚂 Express.js
-- 🍃 MongoDB
-- 🌐 Full-Stack Development
+---
+
+## 💡 My Goals
+
+- [x] Learn HTML
+- [x] Learn CSS
+- [x] Learn Flexbox & Grid
+- [x] Start JavaScript
+- [ ] Master JavaScript
+- [ ] Learn React
+- [ ] Learn Node.js
+- [ ] Learn Express.js
+- [ ] Learn MongoDB
+- [ ] Build Full-Stack Projects
+- [ ] Become a Professional Full-Stack Developer
 
 ---
 
-# 🎯 MY GOALS
+## 💻 Programming & Interests
 
-- 🚀 Become a skilled Full-Stack Developer
-- ⚛️ Improve my React skills
-- 🟢 Learn advanced Node.js & Express.js
-- 🍃 Improve MongoDB knowledge
-- 💻 Build real-world applications
-- 🤝 Contribute to open-source projects
-- 📚 Keep learning new technologies
-
----
-
-# 💡 RANDOM DEV QUOTE
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-# 📊 PROFILE VIEWS
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Asraful666&label=Profile%20Views&style=for-the-badge&color=667eea"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Code • Learn • Build • Repeat 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
-
-</div>
+```text
+💻 Coding
+🌐 Web Development
+🚀 Building Projects
+🧩 Problem Solving
+📚 Learning New Technologies
+🏏 Cricket
+📖 Reading Story Books
+🌱 Gardening
