@@ -138,7 +138,7 @@ A web-based stock market simulator project using HTML, CSS and JavaScript.
 🏏 Cricket
 📖 Reading Story Books
 🌱 Gardening
----
+
 ```
 # 🧠 Programming & Problem Solving
 
