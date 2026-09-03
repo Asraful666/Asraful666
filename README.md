@@ -140,9 +140,6 @@ A web-based stock market simulator project using HTML, CSS and JavaScript.
 🌱 Gardening
 ---
 
-এর ঠিক **নিচে** এটা paste করো:
-
-```md
 ---
 
 # 🧠 Programming & Problem Solving
