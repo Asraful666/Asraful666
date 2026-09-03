@@ -139,9 +139,7 @@ A web-based stock market simulator project using HTML, CSS and JavaScript.
 📖 Reading Story Books
 🌱 Gardening
 ---
-
----
-
+```
 # 🧠 Programming & Problem Solving
 
 I regularly practice programming problems to improve my:
@@ -177,3 +175,4 @@ Data Structures          █████████████░░░░░�
 Algorithms               ████████████░░░░░░░░
 Problem Solving          ███████████████░░░░░
 Competitive Programming  ██████████░░░░░░░░░░
+```
