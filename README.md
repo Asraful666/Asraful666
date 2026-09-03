@@ -138,11 +138,14 @@ A web-based stock market simulator project using HTML, CSS and JavaScript.
 🏏 Cricket
 📖 Reading Story Books
 🌱 Gardening
-
-
 ---
 
-# 🧠 PROGRAMMING & PROBLEM SOLVING
+এর ঠিক **নিচে** এটা paste করো:
+
+```md
+---
+
+# 🧠 Programming & Problem Solving
 
 I regularly practice programming problems to improve my:
 
@@ -173,7 +176,7 @@ I regularly practice programming problems to improve my:
 ### 💻 Problem Solving Focus
 
 ```text
-Data Structures        █████████████░░░░░░░
-Algorithms              ████████████░░░░░░░░
-Problem Solving         ███████████████░░░░░
-Competitive Programming ██████████░░░░░░░░░░
+Data Structures          █████████████░░░░░░░
+Algorithms               ████████████░░░░░░░░
+Problem Solving          ███████████████░░░░░
+Competitive Programming  ██████████░░░░░░░░░░
