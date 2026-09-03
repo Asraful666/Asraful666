@@ -138,3 +138,42 @@ A web-based stock market simulator project using HTML, CSS and JavaScript.
 🏏 Cricket
 📖 Reading Story Books
 🌱 Gardening
+
+
+---
+
+# 🧠 PROGRAMMING & PROBLEM SOLVING
+
+I regularly practice programming problems to improve my:
+
+- 🧩 Problem Solving
+- 🧠 Logical Thinking
+- 📊 Algorithms & Data Structures
+- ⚡ Competitive Programming
+- 💻 Programming Fundamentals
+
+### 🏆 Competitive Programming Profiles
+
+<div align="center">
+
+<a href="https://codeforces.com/profile/noyon220">
+<img src="https://img.shields.io/badge/Codeforces-noyon220-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/asraful220">
+<img src="https://img.shields.io/badge/CodeChef-asraful220-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://vjudge.net/user/asraf220">
+<img src="https://img.shields.io/badge/VJudge-asraf220-1677FF?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</div>
+
+### 💻 Problem Solving Focus
+
+```text
+Data Structures        █████████████░░░░░░░
+Algorithms              ████████████░░░░░░░░
+Problem Solving         ███████████████░░░░░
+Competitive Programming ██████████░░░░░░░░░░
