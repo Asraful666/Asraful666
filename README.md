@@ -49,23 +49,7 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 ## 🛠️ Tech Stack
 
 
-## 🌐 Social & Portfolio Links
 
-<p align="center">
-  <a href="https://astonishing-figolla-c3ee4a.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Portfolio"/>
-  </a>
-
-  <a href="https://www.facebook.com/mdasrafulislam.asraf.7965">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-
-  <a href="https://www.instagram.com/mdasraful1924/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
----
 
 ### 🌐 Frontend
 
