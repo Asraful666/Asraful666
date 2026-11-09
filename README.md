@@ -90,23 +90,76 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 
 ---
 
+
 ## 🚀 Featured Projects
 
-### 🍽️ Restaurant Menu
+Here are some of my featured projects, showcasing my journey in frontend and full-stack web development.
 
-A responsive restaurant menu project built with HTML and CSS.
+### 🛒 [Bazar Dor — Smart E-Commerce Platform](https://github.com/Asraful666/bazar-dor-v2)
 
-### 🎤 DevConf 2026
+A modern e-commerce platform built with Next.js, MongoDB and Better Auth. Designed to provide a smooth shopping experience with authentication and product management.
 
-A conference landing page built with modern HTML, CSS and responsive design.
+**Key Features:**
+- 🔐 User authentication with Google and GitHub
+- 🛍️ Product browsing and management
+- 📱 Responsive user interface
+- 🗄️ MongoDB database integration
+- 🔔 Interactive notifications
 
-### 👤 Personal Profile Card
+**Tech Stack:** `Next.js` `React` `JavaScript` `Tailwind CSS` `MongoDB` `Better Auth`
 
-A clean personal profile card created using modern CSS layout techniques.
+---
 
-### 📈 Stock Market Simulator
+### 🏆 [Sports Tournament Management](https://github.com/Asraful666/sports-tournament-management)
 
-A web-based stock market simulator project using HTML, CSS and JavaScript.
+A React-based sports tournament management project focused on organizing and managing tournament-related information.
+
+**Key Highlights:**
+- ⚽ Tournament management interface
+- 🏏 Sports-focused user experience
+- ⚛️ Component-based React architecture
+- 📱 Responsive frontend design
+
+**Tech Stack:** `React` `JavaScript` `Vite` `CSS`
+
+---
+
+### 🎬 [Movie Explorer](https://github.com/Asraful666/movie-explorer)
+
+An interactive movie discovery application that allows users to explore movies and TV shows using the TVMaze API.
+
+**Key Features:**
+- 🔍 Search movies and TV shows
+- 🎞️ Browse movie collections
+- ⭐ View ratings and genres
+- 📅 Explore release information
+- 🖼️ Interactive movie details modal
+- 📱 Responsive design
+
+**Tech Stack:** `React` `JavaScript` `CSS` `TVMaze API`
+
+---
+
+### 💻 [Dev Stack — Technology Explorer](https://github.com/Asraful666/B14_A5_dev_stack)
+
+A modern web application that helps developers explore programming technologies and build their own personalized technology stacks.
+
+**Key Features:**
+- 🌐 Explore frontend and backend technologies
+- 🧩 Create a personalized tech stack
+- ➕ Add and remove technologies
+- 📊 Explore technology categories and details
+- 📱 Fully responsive interface
+
+**Tech Stack:** `React` `TypeScript` `Tailwind CSS` `Vite`
+
+---
+
+<p align="center">
+  <b>🚀 Building projects. Solving problems. Learning every day.</b>
+</p>
+
+---
 
 ---
 
