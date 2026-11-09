@@ -8,15 +8,17 @@
 
 <br>
 
+
 <a href="https://github.com/Asraful666">
-<img src="https://img.shields.io/github/followers/Asraful666?label=Followers&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/github/followers/Asraful666?label=Followers&style=for-the-badge&logo=github&logoColor=white&cacheSeconds=300" alt="GitHub Followers"/>
 </a>
 
 <a href="https://github.com/Asraful666?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-9-blue?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAsraful666&query=%24.public_repos&label=Repositories&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub Repositories"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Asraful666&label=Profile%20Views&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Asraful666&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views"/>
+
 
 </div>
 
