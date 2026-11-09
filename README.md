@@ -51,7 +51,7 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 ## 🌐 Social & Portfolio Links
 
 <p align="center">
-  <a href="https://astonishing-figolla-c3ee4a.netlify.app/">
+  <a href="https://asraful-portfolio-v2.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Portfolio"/>
   </a>
 
